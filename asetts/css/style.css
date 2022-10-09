@@ -1,0 +1,121 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.text{
+        margin: 0;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 37px;
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: underline #F38181 ;
+}
+
+.container{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header{
+    padding: 17px 0;
+
+}
+
+.header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu_list{
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    display: flex;
+    column-gap: 55px;
+    color: #95E1D3;
+}
+
+.menu_list li{
+    text-transform: uppercase;
+    color: #95E1D3;
+}
+
+.under{
+    font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+}
+.mogo{
+    color: #95E1D3;
+}
+.menu{
+    font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+}
+
+.team{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline #F38181;
+}
+.we{
+font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+}
+.end{
+    color: #B6B6B6;
+    text-align: center;
+}
+.picture{
+    text-align: center;
+}
+.name{
+    color: #333333;
+    text-align: center;
+}
+.design{
+font-family: 'Roboto', sans-serif ;
+color: #B6B6B6;
+font-weight: 300;
+font-size: 15px;
+}
+.brand{
+font-family: 'Roboto', sans-serif;
+color: #B6B6B6;
+font-weight: 300;
+font-size: 15px;
+}
+.developer{
+font-family: 'Roboto', sans-serif;
+color: #B6B6B6;
+font-weight: 300;
+font-size: 15px;
+}
+.
